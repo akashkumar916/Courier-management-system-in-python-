@@ -4,7 +4,6 @@
 <br/>
 <img src="Screenshot (270).png" width='80%' height='300px'>
 
-<br/>
-<img src="Screenshot (271).png" width='80%' height='300px'>
+
 <br/>
 <img src="Screenshot (272).png" width='80%' height='300px'>
